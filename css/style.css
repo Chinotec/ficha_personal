@@ -46,6 +46,10 @@ body {
   margin-top: 6px;
   font-weight: 600;
 }
+.legajo strong{
+  color: #ffffff;
+  text-decoration: none;
+}
 .caja p {
   text-align: justify;
 }
@@ -106,6 +110,7 @@ body {
   font-size: 14px;
   margin: 0;
   flex: 1;
+  text-align: center;
 }
 
 .card a {
@@ -387,3 +392,4 @@ body.dark-mode .menu-link:hover {
     gap: 10px;
   }
 }
+
